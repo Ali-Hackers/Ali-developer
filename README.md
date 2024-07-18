@@ -1,4 +1,5 @@
-### Hi there, I'm Ali 👋
+### <p align="center">Hi there, I'm Ali 👋</p>
+
 
 - 👀 I’m interested in JavaScript.
 - 🌱 I’m currently learning JavaScript and I'm in my 2nd year of study.
